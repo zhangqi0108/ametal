@@ -1,1 +1,3 @@
-test i love u
+git add .
+git commit -am "addfile"
+git push origin master
